@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+languages+%26+tools+%3A)](https://git.io/typing-svg)
 
-| GO | Git/GitHub | SQL | HTML | CSS |
-|----|------------|-----|------|-----|
+| GO | Git/GitHub | Docker | PostgreSQL | CI/CD |
+|----|------------|--------|------------|-------|
 
 ___
 
