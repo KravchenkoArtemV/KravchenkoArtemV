@@ -1,9 +1,9 @@
-<h2 align="center">Hello world👋! I'm Artem </h2>
+<h2 align="center">Hello world👋!</h2>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=My+languages+%26+tools+%3A)](https://git.io/typing-svg)
 
-| GO | Git/GitHub | Docker | PostgreSQL | CI/CD |
-|----|------------|--------|------------|-------|
+| GO | Docker | PostgreSQL | CI/CD | Kafka |
+|----|--------|------------|-------|-------|
 
 ___
 
@@ -11,7 +11,3 @@ ___
 
 * e-mail: kravchenkoav1990@gmail.com
 * telegram: https://t.me/aka_5
-
-___
-* https://stepik.org/users/719123357
-
